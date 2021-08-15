@@ -1,0 +1,156 @@
+*
+{
+  padding:0;
+  margin:0;
+  text-decoration: none;
+  list-style:none;
+  box-sizing:border-box;
+}
+body
+{
+  margin:0 10%;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+/* --------------------NAV BAR----------------------------------------------- */
+.nav-left h1
+{
+  padding-top:20px;
+  padding-left:30px;
+  font-family: 'Style Script', cursive;
+  font-size: 30px;
+}
+.nav-left h3
+{
+  padding-left:30px;
+}
+nav div{
+  display:inline-block;
+}
+.nav-right{
+  float:right;
+  margin:25px 50px;
+
+}
+nav
+{
+  background-color:#FDF6F0;
+  height:100px;
+  width:100%;
+}
+.nav-right ul li
+{
+  display:inline-block;
+  margin:20px;
+  height:100%;
+  
+
+}
+.nav-right ul li a
+{padding:10px 20px;
+}
+.nav-right ul li a:hover
+{
+background-color: rgb(233, 149, 110);
+
+}
+
+
+/* ------------------------------------------------------------------- */
+.contact
+{
+  height:350px;
+  background-image: url(https://images.pexels.com/photos/326576/pexels-photo-326576.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.p
+
+{
+  position:absolute;
+  top:40%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+.p p
+{
+  font-size: 120px;
+  color:#FDE49C;
+  font-weight: 900;
+  font-style:normal
+}
+.contact-help
+{
+  height:70px;
+}
+.contact-help h3
+{
+  text-align: center;
+  margin-top:35px;
+}
+/* ------------------------------------------------------------------------------------- */
+
+/* ------------------------------------CONTACT US FORM------------------------------------------------- */
+
+input[type=text], select, textarea,input[type=email],input[type=number] {
+  width: 70%; /* Full width */
+  margin-left :15%;
+  margin-right:15%;
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  f
+}
+
+label{
+  margin-left :15%;
+  margin-right:15%;
+  font-weight: 700;
+}
+
+
+input[type=submit] {
+  background-color: #093592;
+  color: white;
+  padding: 12px 20px;
+  margin:0px 45%;
+  border: none;
+  cursor: pointer;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  
+}
+
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.form-section {
+  border-radius: 5px;
+  background-color: #F1E9E5;
+  padding: 20px;
+}
+
+/* --------------------------footer-------------------------- */
+footer
+{
+  background-color: black;
+  text-align: center;
+  height:50px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
+footer p
+{
+  color:white;
+
+}

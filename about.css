@@ -1,0 +1,21 @@
+.about p
+{
+    text-align: center;
+    font-size: 100px;
+    background-color: #F6AE99;
+    padding:30px;
+}
+.about-data
+{
+    display:flex;
+}
+.about-data-right p
+{
+    margin:70px;
+    font-family: 'Noto Serif JP', serif;
+}
+#myself
+{
+    height:400px;
+    margin:50px;
+}

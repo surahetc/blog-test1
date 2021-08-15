@@ -1,0 +1,51 @@
+.btn
+{
+background-color: #093592;
+color: white;
+padding: 12px 20px;
+margin:0px 45%;
+border: none;
+cursor: pointer;
+font-family: 'Raleway', sans-serif;
+font-weight: 600;
+width:150px;
+border-radius: 13px;
+margin:5px;
+}
+.btn:hover
+{
+    background-color: #45a049;
+}
+
+.navigate
+{
+margin:0 35%;
+}
+
+
+.article-submit
+{
+    background-color: #f5ead2;
+}
+
+
+.articles{
+    padding:50px;
+    background-color: rgb(252, 252, 240);
+}
+
+.articles p,img
+{
+    margin: 50px;
+}
+
+.articles p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+}
+
+.articles h3
+{
+    font-size: 30px;
+}
