@@ -1,0 +1,30 @@
+Description of the project:- 
+
+The project is a about a website about blogging where people can post articles. It contains  following four pages. 
+	1. home page
+	2. about page
+	3. contact page
+	4. blog page
+
+----------------------------------------------------------------
+Technologies used :
+
+	1. html 
+	2. css
+	3. javascript
+
+-----------------------------------------------------------------
+
+All the commits done in the projects and their description : - 
+
+	1st commit : the project is added to git respository.
+
+	2nd commit : all the basic structure of html files are added like navbar, content and footer.
+	
+	3rd commit : a uniform styling is applied to all the web pages
+
+	4th commit : Javascript is applied at the blog page where a user can nagivate all the articles by clicking on buttons "next article" and "prev article"
+
+------------------------------------------------------------------
+
+
