@@ -49,3 +49,18 @@ margin:0 35%;
 {
     font-size: 30px;
 }
+
+.article-heading
+{
+    height: 200px;
+    background-image: url("https://images.pexels.com/photos/4467632/pexels-photo-4467632.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-position: center;
+}
+
+.article-heading h1
+{
+    text-align: center;
+    padding:4.5%;
+    font-weight: 900;
+    font-size:80px;
+}
